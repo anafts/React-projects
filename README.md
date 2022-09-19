@@ -6,7 +6,7 @@
 
 
 ## 
- Exercícios usando Reactjs
+ Exercícios usando Reactjs e JavaScript ES6 para praticar
  
 #
 
@@ -31,6 +31,12 @@
 - React hooks
 - React Form
 - Controlled componets
+- Javascript ES6 import, export and modules
+- Javascript ES6 map/ filter / reduce
+- Javascript ES6 arrow functions
+- Ternary operator & AND operator
+- Javascript ES6 object and array destructuring
+- Javascript ES6 Spread Operator
 
 #
 
