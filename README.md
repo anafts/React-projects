@@ -1,4 +1,4 @@
-# React projests
+# React projects
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/React-projects?style=for-the-badge)
