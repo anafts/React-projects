@@ -6,7 +6,7 @@
 
  ## 💻 Descrição:
  
- Alguns projetos, como: botões, contador, formulários e relório, usando Reactjs e JavaScript ES6 para praticar
+ Alguns projetos, como: botões, contador, formulários e relório, usando Reactjs e JavaScript ES6 para aprender e praticar
  
 
 
