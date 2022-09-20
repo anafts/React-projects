@@ -4,14 +4,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/React-projects?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/React-projects?style=for-the-badge)
 
-
-## 
- Exercícios usando Reactjs e JavaScript ES6 para praticar
+ ## 💻 Descrição do projeto:
  
-#
+ Alguns projetos, como: botões, contador, formulários e relório, usando Reactjs e JavaScript ES6 para praticar
+ 
 
 
-## 🛠️ Technologies: 
+## 🛠️ Linguagens e libs utilizadas:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,9 +19,8 @@
 
 
 
-# 
 
-## 📚 Learning
+## 📚 Aprendizagem:
 
 - JSX
 - React components
@@ -37,9 +35,4 @@
 - Ternary operator & AND operator
 - Javascript ES6 object and array destructuring
 - Javascript ES6 Spread Operator
-
-#
-
-
-
 
