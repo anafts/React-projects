@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/React-projects?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/React-projects?style=for-the-badge)
 
- ## 💻 Descrição do projeto:
+ ## 💻 Descrição:
  
  Alguns projetos, como: botões, contador, formulários e relório, usando Reactjs e JavaScript ES6 para praticar
  
